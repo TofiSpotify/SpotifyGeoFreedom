@@ -2,7 +2,7 @@ name: Run SpotifyGeoFreedom Script
 
 on:      
   schedule:
-    - cron: '59 7 * * 1'
+    - cron: '29 2 * * 6'
     
   workflow_dispatch:
       
